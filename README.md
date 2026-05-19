@@ -1,0 +1,1 @@
+git@github.com:VitaliyDerko/ono-tebe-nado-fd.git
